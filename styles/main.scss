@@ -1,0 +1,17 @@
+@import "fonts";
+
+body {
+  font-family: "Roboto";
+  position: relative;
+  background: rgb(91, 106, 239);
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+a {
+  color: #646464;
+  text-decoration: none;
+}
